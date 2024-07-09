@@ -1,0 +1,41 @@
+body {
+  margin: 0 0 0 0;
+  background-color: hsl(0, 0%, 92%);
+}
+h1 {
+  line-height: 3rem;
+}
+h1,
+p {
+  margin: 0 0 0 0;
+}
+#container {
+  border-radius: 25px;
+  margin: 25px 15% 0 15%;
+  padding: 50px 0 75px 0;
+  height: 100%;
+  background-color: white;
+  box-shadow: 0px 0px 30px rgb(0, 0, 0, 0.15);
+}
+article {
+  padding: 0 15% 0 15%;
+}
+article h1 {
+  font-size: 4rem;
+  font-family: Verdana, Tahoma, sans-serif;
+  text-align: center;
+}
+#recipe-catalog a {
+  font-size: 1.5rem;
+}
+
+#recipe-catalog p {
+  font-size: 1.25rem;
+}
+#recipe-catalog h1 {
+  margin-bottom: 50px;
+}
+
+#recipe-catalog {
+  font-family: Garamond, "Times New Roman", serif;
+}
